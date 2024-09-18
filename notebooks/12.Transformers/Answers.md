@@ -7,3 +7,6 @@ p(\boldsymbol{x}_1,\boldsymbol{x}_2...\boldsymbol{x}_N)=p(\boldsymbol{x}_1)p(\bo
 $$
 
 $$p(\boldsymbol{x}_{n} \mid \boldsymbol{x}_{n})$$
+
+
+cannot!!!! markdown is not suitable for writing equations.
